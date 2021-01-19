@@ -1,2 +1,4 @@
-# OnlinePaymentSystem
-Website integrated with Payment Gateway system in order which can be used by any NGO's.
+# Online-Donations-Website
+Payment Gateway Integration
+websiteurl:https://onlinedonationstask.000webhostapp.com/
+https://online-donations.000webhostapp.com/
